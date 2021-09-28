@@ -28,8 +28,8 @@
 - [X] Finish!
 - [ ] Unfinish.
 ***
+**python**
 ```
-python
 s = "This is a sentence."
-print(s)
+print s
 ```
