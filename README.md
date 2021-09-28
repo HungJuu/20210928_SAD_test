@@ -27,3 +27,9 @@
 **To to list**
 - [X] Finish!
 - [ ] Unfinish.
+***
+```
+python
+s = "This is a sentence."
+print(s)
+```
