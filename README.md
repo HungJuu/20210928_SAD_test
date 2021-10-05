@@ -43,10 +43,8 @@ alert(s);
 ```
 ***
 ### Item List
-+ First item
-+ Second item
-+ Third item
-+ Another items
-+ ...* note1
-+ ...* note2
+1. First item
+2. Second item
+3. Third item
+4. Another items
 ***
