@@ -4,8 +4,9 @@
 #### This is a test.
 ##### This is a test.
 ###### This is a test.
-**This is a test.**
-*This is a test.*
+***
+**This is bold.**
+*This is italic.*
 ***
 ### `😃 : HELLO!`
 ***
