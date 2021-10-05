@@ -1,7 +1,7 @@
 # C108118203 陳虹汝
 ### 組員
 |學號|姓名|
-|:---|:---|
+|:---|:---:|
 |C108118203|陳虹汝|
 |C108118209|曾琬茜|
 |C108118210|黃聖鈞|
@@ -53,7 +53,7 @@ alert(s);
      * …
      * …
 ***
-> Emphasis, aka italics, with asterisks or underscores.
+> Emphasis, aka *italics*, with *asterisks* or *underscores*.
 
 > Strong emphasis, aka bold, with **asterisks** or **underscores**.
 
