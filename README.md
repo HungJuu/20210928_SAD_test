@@ -7,6 +7,7 @@
 ***
 **This is bold.**
 *This is italic.*
+~~This is a deleting line.~~
 ***
 ### `😃 : HELLO!`
 ***
@@ -38,6 +39,6 @@ print s
 **java script**
 ```
 var s = "This is a sentence.";
-alert (s);
+alert(s);
 ```
 ***
