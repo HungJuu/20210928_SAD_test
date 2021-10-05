@@ -44,12 +44,14 @@ alert(s);
 ```
 ***
 ### Item List
-1. First item
-2. Second item
-4. Third item
-5. Another items
-     ..a. …
-     ..b. …
+1. Class
+2. * IM3B
+3. Student ID
+4. * C108118203
+5. Third item
+6. Another items
+     * a. …
+     * b. …
 ***
 > Emphasis, aka italics, with asterisks or underscores.
 
