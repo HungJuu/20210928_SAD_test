@@ -34,3 +34,10 @@
 s = "This is a sentence."
 print s
 ```
+***
+**java script**
+```
+var s = "This is a sentence.";
+alert (s);
+```
+***
