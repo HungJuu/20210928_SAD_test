@@ -45,11 +45,11 @@ alert(s);
 ***
 ### Item List
 1. Class
-2. * IM3B
-3. Student ID
-4. * C108118203
-5. Third item
-6. Another items
+   * IM3B
+2. Student ID
+   * C108118203
+3. Third item
+4. Another items
      * a. …
      * b. …
 ***
