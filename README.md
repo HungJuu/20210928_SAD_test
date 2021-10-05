@@ -26,6 +26,7 @@
 ***
 ![fig](corgi.jpg "corgi")
 ***
+##實作題
 **To to list**
 - [X] Finish!
 - [ ] Unfinish.
@@ -35,7 +36,6 @@
 s = "This is a sentence."
 print s
 ```
-***
 **java script**
 ```
 var s = "This is a sentence.";
@@ -45,6 +45,16 @@ alert(s);
 ### Item List
 1. First item
 2. Second item
-3. Third item
-4. Another items
+4. Third item
+5. Another items
+     a. …
+     b. …
+***
+Emphasis, aka italics, with asterisks or underscores.
+
+Strong emphasis, aka bold, with **asterisks** or **underscores**.
+
+Combined emphasis with **asterisks and *underscores***.
+
+Strikethrough uses two tildes. ~~Scratch this~~.
 ***
